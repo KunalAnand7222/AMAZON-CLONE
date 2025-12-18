@@ -22,8 +22,3 @@ This project replicates the look and feel of the Amazon homepage and focuses on 
 - **HTML** – Structure of the website  
 - **CSS** – Styling, layout, and responsiveness  
 - **JavaScript** – Basic interactivity and dynamic behavior  
-
----
-
-## 📂 Project Structure
-
